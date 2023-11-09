@@ -60,3 +60,9 @@ Assess the strengths and weaknesses of various modeling techniques.
 Conclusion:
 Summarize the methodology and findings, emphasizing the importance of data preprocessing, feature engineering, and model selection.
 Highlight the suitability of advanced models like XGBoost, Random Forest, and Decision Tree for the given dataset, considering the multicollinearity and non-linearity of relationships.
+
+Contents of Repository:
+Initial EDA Results
+Part 1 of Project Replication 
+Part 2 of trying to create models with cleanign data properly and removing outliers
+Part 3 of Checking Linear Model Viability, Making a Decision on Not Using Simple Linear Regression, Adding Classification Models Random Forest & Decision Tree and Also R2 Evaluation Metric along with RMSLE use in the original project
