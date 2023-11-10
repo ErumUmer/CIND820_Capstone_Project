@@ -1,6 +1,16 @@
 # CIND820_Capstone_Project
 "Comparative Analysis of Machine Learning Models for Home Sale Price Classification: A Study Using the Ames Housing Dataset"
 
+Project Stages-Detailed Metholodlogy is Given Below 
+
+1)EDA
+2) Replication of a Project(Advanced Regression Techniques on Ames Housing Dataset) 
+3) Using Different Cleaning Methods to see how models perform
+4) Checking the viability of Simple Linear Regression and deciding not to use it
+5) Adding Random Forest and Decisions Tree models and R2 Evaluation Metric to the original model
+6)Averaging Models 
+
+
 Revised Project Methodology:
 
 Data Loading:
