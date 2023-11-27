@@ -59,7 +59,7 @@ Lasso Regression with L1 regularization (optimize alpha).
 XGBoost (a classification model) for regression tasks.
 Random Forest (a classification model) for regression tasks.
 Decision Tree (a classification model) for regression tasks.
-Evaluate models using regression metrics such as R2, Mean Squared Logarithmic Error (MSLE), and Mean Squared Error (MSE).
+Evaluate models using regression metrics such as R2 and Mean Squared Logarithmic Error (RMSLE).
 Select the best-performing model based on the evaluation metrics.
 
 Comparative Analysis of Models:
